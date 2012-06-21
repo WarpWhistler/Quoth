@@ -1,0 +1,150 @@
+Always do right. This will gratify some people and astonish the rest. 
+Mark Twain
+A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do. 
+Bob Dylan
+Don't wait for the Last Judgement. It takes place every day. 
+Albert Camus
+Brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something. 
+Randy Pausch
+Far and away the best prize life has to offer is the chance to work hard at work worth doing. 
+Theodore Roosevelt
+I cannot afford to waste my time making money. 
+Louis Agassiz
+All you have to decide is what you're going to do with the time you are given. 
+Gandalf
+The quality of a person's life is in direct proportion to their commitment to excellence, regardless of their field of endeavor. 
+Vince Lombardi
+No art, however minor, demands less than total dedication if you want to excel in it. 
+Leon Battista Alberti, (architect, painter and mathematician)
+My crystal ball is fuzzy  F
+Lotfi Zadeh (inventor of Fuzzy Logic, when asked to predict the future)
+If I had a dollar for every million-dollar idea I've had, I'd be rich. 
+Greg Meyer
+There's nothing that will change someone's moral outlook quicker than cash in large sums. 
+Larry Flynt
+The perfect is the enemy of the good. 
+Voltaire
+I have great faith in fools. Self-confidence, my friends call it. 
+Edgar Allen Poe
+The point of all this is to be able to spend more time at the beach! 
+Nils Nilsson
+Being famous has its benefits, but fame isn't one of them. 
+Larry Wall
+Personally, I liked the university. They gave us money and facilities, we didn't have to produce anything! You've never been out of college! You don't know what it's like out there! I've worked in the private sector. They expect results. 
+Dr Ray Stanz (Dan Aykroyd), Ghostbusters
+A great many people think they are thinking when they are merely rearranging their prejudices. 
+William James
+It is the mark of an educated mind to be able to entertain a thought without accepting it. 
+Aristotle
+I try to leave out the parts that people skip. 
+Elmore Leonard (on his secret to writing)
+Believe, if thou wilt, that mountains change their place, but believe not that man changes his nature. 
+Mohammed
+In the beginning, the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move. 
+Douglas Adams
+Space isn't remote at all. It's only an hour's drive away if your car could go straight upwards. 
+Fred Hoyle
+Man is the best computer we can put aboard a spacecraft... and the only one that can be mass produced with unskilled labor. 
+Wernher von Braun
+We can lick gravity, but sometimes the paperwork is overwhelming. 
+Wernher von Braun
+I don't see any god up here. 
+Yuri Gagarin (in orbit, 1961)
+Only two things are infinite, the universe and human stupidity, and I'm not sure about the former. 
+Albert Einstein
+There are 1011 stars in the galaxy. That used to be a huge number. But it's only a hundred billion. It's less than the national deficit! We used to call them astronomical numbers. Now we should call them economical numbers. 
+Richard Feynman
+For all our conceits about being the center of the universe, we live in a routine planet of a humdrum star stuck away in an obscure corner ... on an unexceptional galaxy which is one of about 100 billion galaxies. ... That is the fundamental fact of the universe we inhabit, and it is very good for us to understand that. 
+Carl Sagan
+Far out in the uncharted backwaters of the unfashionable end of the Western Spiral arm of the Galaxy lies a small unregarded yellow sun. Orbiting this at a distance of roughly ninety-eight million miles is an utterly insignificant little blue-green planet whose ape-descended life forms are so amazingly primitive that they still think digital watches are a pretty neat idea. 
+Douglas Adams
+Some software is actually pretty good, by any standard. Think of the Mars Rovers, Google, and the Human Genome Project. Now, that's quality software! 
+Bjarne Stroustrup, (when asked by Technology Review "Why is software so bad?". I'm proud to have worked on two of those three projects.)
+The world has arrived at an age of cheap complex devices of great reliability; and something is bound to come of it. 
+Vannevar Bush (1945)
+Power corrupts, and obsolete power corrupts obsoletely. 
+Ted Nelson, on the Microsoft DOS operating system
+Computers make it easier to do a lot of things, but most of the things they make it easier to do don't need to be done 
+Andy Rooney
+As soon as we started programming, we found out to our surprise that it wasn't as easy to get programs right as we had thought. Debugging had to be discovered. I can remember the exact instant when I realized that a large part of my life from then on was going to be spent in finding mistakes in my own programs. 
+Maurice Wilkes
+Only wimps use tape backup: real men just upload their important stuff on ftp, and let the rest of the world mirror it. 
+Linus Torvalds
+C++ is history repeated as tragedy. Java is history repeated as farce. 
+Scott McKay
+Nothing is destroyed until it is replaced. 
+Auguste Comte (1798-1857) (on the need for revolutionary new theories (or on the need to do x.f = null in garbage-collected languages with destructors))
+In general, they do what you want, unless you want consistency. 
+Larry Wall (on Perl functions)
+Computer language design is just like a stroll in the park. Jurassic Park, that is. 
+Larry Wall
+If you give someone Fortran, he has Fortran. If you give someone Lisp, he has any language he pleases. 
+Guy L. Steele
+[Lisp] is the only computer language that is beautiful. 
+Neal Stephenson
+If you can't hear me, it's because I'm in parentheses. 
+Steven Wright
+He who refuses to do arithmetic is doomed to talk nonsense. 
+John McCarthy
+Belief is no substitute for arithmetic. 
+Henry Spencer
+Object-oriented programming is an exceptionally bad idea which could only have originated in California. 
+Edsger Dijkstra (attributed)
+We read Knuth so you don't have to. 
+im Peters (explaining what the Python developers do in their spare time)
+Computers are useless. They can only give you answers. 
+Pablo Picasso
+I do not believe in objects. I believe only in their relationships. 
+George Braque
+I don't paint things. I only paint the difference between things. 
+Henri Matisse
+Mathematicians do not study objects, but relations among objects; they are indifferent to the replacement of objects by others as long the relations don't change. Matter is not important, only form interests them. 
+Henri Poincare
+Have nothing in your houses that you do not know to be useful, or believe to be beautiful. 
+William Morris
+All models are wrong. Some models are useful. 
+George Box
+When cryptography is outlawed, bayl bhgynjf jvyy unir cevinpl! 
+Brad Templeton
+Errors using inadequate data are much less than those using no data at all. 
+Charles Babbage
+In the future, search engines should be as useful as HAL in the movie 2001: A Space Odyssey--but hopefully they won't kill people. 
+Sergey Brin
+Doubt is not a pleasant condition, but certainty is an absurd one. 
+Voltaire
+There are three principal ways to lose money: wine, women, and engineers. While the first two are more pleasant, the third is by far the more certain.
+Baron Rothschild
+God is a hacker, not an engineer. 
+Francis Crick
+You can do reverse engineering, but you can't do reverse hacking. 
+V. S. Ramachandran
+I have often thought that if there had been a good rap group in those days, I might have chosen a career in music instead of politics. 
+Richard Nixon
+If I have made myself clear, you must have misunderstood me. 
+Alan Greenspan
+Science is like sex: sometimes something useful comes out, but that is not the reason we are doing it 
+Richard Feynman
+Literature is mostly about having sex, and not much about having babies; life is the other way round. 
+David Lodge
+More than any other time in history mankind faces a crossroads. One path leads to despair and utter hopelessness, the other to total extinction. Let us pray we have the wisdom to choose correctly. 
+oody Allen
+When you have eliminated the impossible, whatever remains, however improbable, must be the truth. 
+Sir Arthur Conan Doyle
+Chance favors only the prepared mind. 
+Louis Pasteur
+Lord, give us the wisdom to utter words that are gentle and tender, for tomorrow we may have to eat them. 
+en. Morris Udall
+It does not require a majority to prevail, but rather an irate, tireless minority keen to set brush fires in people's minds. 
+Samuel Adams
+I don't want to achieve immortality through my work ... I want to achieve it through not dying. 
+Woody Allen
+I am a man of fixed and unbending principles, the first of which is to be flexible at all times. 
+Sen. Everett Dirksen
+When I face an issue of great import that cleaves both constituents and colleagues, I always take the same approach. I engage in deep deliberation and quiet contemplation. I wait to the last available minute and then I always vote with the losers. Because, my friend, the winners never remember and the losers never forget. 
+Sen. Everett Dirksen
+Wise men make proverbs, but fools repeat them. 
+Samuel Palmer
+In the End, we will remember not the words of our enemies, but the silence of our friends. 
+Martin Luther King Jr.
+In the end, everything is a gag. 
+Charlie Chaplin
